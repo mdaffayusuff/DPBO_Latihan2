@@ -5,4 +5,4 @@ dalam mata kuliah Design Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti
 yang telah dispesifikasikan. Aamiin.
 
-![Alt text](https://github.com/mdaffayusuff/DPBO_Latihan2/blob/main/img/Human1.png?raw=true "a title")
+![Alt text](https://github.com/mdaffayusuff/DPBO_Latihan2/main/img/Human1.png?raw=true "a title")
