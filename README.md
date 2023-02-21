@@ -9,7 +9,7 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti
 yang telah dispesifikasikan. Aamiin.
 
 ## UML
-
+![Alt text](https://github.com/mdaffayusuff/DPBO_Latihan2/blob/main/img/UML%20latihan%202.jpg?raw=true)
 
 ## Class
 - **Human** : Merupakan *base class* dimana class ini memiliki atribut 'NIK', 'Nama', dan 'Jenis Kelamin'
